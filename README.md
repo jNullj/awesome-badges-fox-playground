@@ -16,6 +16,7 @@ includes Shields-related and non-Shields-related resources._
 - [NodeICO](https://nodei.co/) &ndash; Large-format status badges for Node.js
   projects &ndash; which were once very popular!
 - [PlayBadges](https://playbadges.pavi2410.me) &ndash; Show off your Play Store™ app's downloads and ratings in your repo
+- [badge.fury.io](https://badge.fury.io) - Service for version badges of packages like PyPI, npm, RubyGems, etc.
 
 ### Badge tools
 
@@ -24,6 +25,7 @@ includes Shields-related and non-Shields-related resources._
 - [Badges](https://github.com/bevry/badges) &ndash; Node.js/Deno/Browser npm package for rendering the HTML of various badges
 - [Projectz](https://github.com/bevry/projectz) &ndash; Render Badges into your README based on your package.json configuration
 - [shields.io Raycast extension](https://www.raycast.com/litomore/badges) &ndash; A more convenient UI for creating shields.io badges
+- [shields-badge](https://github.com/galtzo-floss/shields-badge) &ndash; RubyGem for generating shields.io badge URLs and Markdown
 
 ### Raster badges
 
@@ -62,9 +64,6 @@ includes Shields-related and non-Shields-related resources._
 > - [Badgen's https badge](https://badgen.net/https)
 > - [Badgen's RunKit endpoint badge](https://badgen.net/runkit)
 
-- [Transifex open API endpoints](https://transifex-open-api.herokuapp.com/)
-  &ndash; Data gateway for projects using
-  [Transifex](https://www.transifex.com/).
 - [Cell Shield](https://cellshield.info) &ndash; a service that allows backing a shields.io badge with a cell from a public Google Spreadsheet.
 - [TYPO3 Badges](https://typo3-badges.dev) &ndash; API that provides
   JSON endpoints to render badges of [TYPO3 CMS extensions](https://extensions.typo3.org/)
